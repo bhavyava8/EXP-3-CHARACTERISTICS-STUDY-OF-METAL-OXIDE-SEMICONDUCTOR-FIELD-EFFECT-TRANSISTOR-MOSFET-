@@ -78,17 +78,8 @@ Simulation Results
 
 
 
-8. CALCULATIONS
-Transconductance:
-gm = ΔID / ΔVGS
-Therefore,  gm = __________________ S
-Drain Resistance:
-rd = ΔVDS / ΔID
-Therefore,  rd = __________________ Ω
-9. RESULT
-Thus, the drain and transfer characteristics of the MOSFET were simulated using LTspice. The values of transconductance (gm) and drain resistance (rd) were determined from the respective characteristics.
-gm = __________________ S
-rd = __________________ Ω
+
+
 10. PRECAUTIONS
 •	Check the MOSFET terminal connections before starting the simulation.
 •	Use appropriate voltage sweep limits.

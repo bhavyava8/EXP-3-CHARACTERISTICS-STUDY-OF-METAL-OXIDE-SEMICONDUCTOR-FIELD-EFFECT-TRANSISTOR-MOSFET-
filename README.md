@@ -80,7 +80,7 @@ Simulation Results
 
 
 
-10. PRECAUTIONS
+PRECAUTIONS
 •	Check the MOSFET terminal connections before starting the simulation.
 •	Use appropriate voltage sweep limits.
 •	Keep VDS constant while obtaining transfer characteristics.
